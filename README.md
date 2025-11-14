@@ -1,5 +1,5 @@
-#Odin Recipes
-##(A project from The Odin Project)
+# Odin Recipes
+## (A project from The Odin Project)
 
 This project is an exercise in the following skills:
 
