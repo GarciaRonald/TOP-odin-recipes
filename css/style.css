@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 40px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+a {
+    display: inline-block;
+    padding: 5px;
+    color: orange;
+    font-weight: bold;
+}
+
+h1, h2 {
+    letter-spacing: 3px;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+h1 {
+    background-color: #ead6b0;
+}
+
+h2 {
+    background-color: #d3edf6;
+}
+
+img {
+    margin: 30px 0;
+    border-radius: 20px;
+}
+
+li {
+    margin: 5px 0 5px 30px;
+}
