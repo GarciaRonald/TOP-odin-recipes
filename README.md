@@ -7,3 +7,5 @@ This project is an exercise in the following skills:
 - Basic GitHub repository creation
 - Basic Git commands (add, commit, push, status, log)
 - Basic CSS styling
+
+Click to see a [live preview](https://garciaronald.github.io/TOP-odin-recipes/index.html) in GitHub Pages.
